@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![image](https://github.com/JulianaAigueira/JulianaAigueira/assets/121833579/820ed14f-7714-486e-bf1d-263ff8a7c950)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+
+
+
+
+
+
 
 
 
