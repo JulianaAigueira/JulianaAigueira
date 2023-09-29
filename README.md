@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![image](https://github.com/JulianaAigueira/JulianaAigueira/assets/121833579/820ed14f-7714-486e-bf1d-263ff8a7c950)
+
+
+
+
+
+
 <!--
 **JulianaAigueira/JulianaAigueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
